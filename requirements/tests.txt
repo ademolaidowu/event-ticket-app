@@ -1,0 +1,7 @@
+# TESTS REQUIREMENTS #
+
+-r local.txt
+
+django-debug-toolbar==3.6.0
+ipython==8.4.0
+

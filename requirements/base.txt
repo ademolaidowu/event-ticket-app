@@ -1,0 +1,15 @@
+# BASE REQUIREMENTS #
+
+django>=4.0.0,<4.1.0
+pytz==2022.2.1
+python-decouple==3.6
+
+djangorestframework==3.13.1
+django-ckeditor==6.5.0
+django-countries==7.3.2
+django-versatileimagefield==2.2
+djangorestframework-simplejwt==5.2.0
+qrcode==7.3.1
+opencv-python==4.6.0.66
+django-cors-headers
+whitenoise

@@ -1,0 +1,5 @@
+# PRODUCTION REQUIREMENTS #
+
+-r local.txt
+
+psycopg2-binary==2.9.1

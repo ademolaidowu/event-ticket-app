@@ -1,0 +1,5 @@
+# DEVELOPMENT REQUIREMENTS #
+-r base.txt
+
+Markdown==3.4.1
+drf-yasg==1.21.3
