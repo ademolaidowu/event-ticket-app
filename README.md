@@ -30,8 +30,10 @@ Check out ongoing Tikwey app website - [Tikwey](https://www.tikwey.com).<br>
 
 ## ➡️ Features
 * Authentication features such as login, logout, register, change and reset password
+* Paystack API integration for all transactions.
 * Wallet features for each users to deposit money and buy tickets or trade at events
 * Purchase ticket features
+* QRCode implementation for purchased tickets
 * View all events available
 * Create, update or delete your event when authenticated
 <br><br>
